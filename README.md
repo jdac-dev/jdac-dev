@@ -1,14 +1,10 @@
 <a href="https://vedangdhuri.github.io/">
-  <img src="https://raw.githubusercontent.com/vedangdhuri/images/refs/heads/main/github-header-banner-2.png" alt="Header" width="1011" height="299">
+  <img src="https://github.com/user-attachments/assets/41191a60-4dab-45f9-add5-1f4c4b5feb4c" alt="Header" width="1011" height="299">
 </a>
 
 <h1 align="center"> Hi 👋, I'm Jose David </h1>
-<h3 align="center"> Full Stack | Blockchain(loading) </h3>
+<h3 align="center"> Full Stack | Blockchain (loading) </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
-  <img src="https://img.shields.io/badge/Total_Repos-13-5865F2?style=flat" alt="Repository" />
-</p>
 <h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 <h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
 
